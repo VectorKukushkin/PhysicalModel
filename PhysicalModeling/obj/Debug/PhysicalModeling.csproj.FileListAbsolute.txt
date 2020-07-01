@@ -1,0 +1,14 @@
+C:\Users\vecto\source\repos\PhysicalModeling\PhysicalModeling\bin\Debug\PhysicalModeling.exe
+C:\Users\vecto\source\repos\PhysicalModeling\PhysicalModeling\bin\Debug\PhysicalModeling.pdb
+C:\Users\vecto\source\repos\PhysicalModeling\PhysicalModeling\obj\Debug\PhysicalModeling.csprojAssemblyReference.cache
+C:\Users\vecto\source\repos\PhysicalModeling\PhysicalModeling\obj\Debug\MainWindow.g.cs
+C:\Users\vecto\source\repos\PhysicalModeling\PhysicalModeling\obj\Debug\App.g.cs
+C:\Users\vecto\source\repos\PhysicalModeling\PhysicalModeling\obj\Debug\PhysicalModeling_MarkupCompile.cache
+C:\Users\vecto\source\repos\PhysicalModeling\PhysicalModeling\obj\Debug\PhysicalModeling_MarkupCompile.lref
+C:\Users\vecto\source\repos\PhysicalModeling\PhysicalModeling\obj\Debug\MainWindow.baml
+C:\Users\vecto\source\repos\PhysicalModeling\PhysicalModeling\obj\Debug\PhysicalModeling.g.resources
+C:\Users\vecto\source\repos\PhysicalModeling\PhysicalModeling\obj\Debug\PhysicalModeling.Properties.Resources.resources
+C:\Users\vecto\source\repos\PhysicalModeling\PhysicalModeling\obj\Debug\PhysicalModeling.csproj.GenerateResource.cache
+C:\Users\vecto\source\repos\PhysicalModeling\PhysicalModeling\obj\Debug\PhysicalModeling.csproj.CoreCompileInputs.cache
+C:\Users\vecto\source\repos\PhysicalModeling\PhysicalModeling\obj\Debug\PhysicalModeling.exe
+C:\Users\vecto\source\repos\PhysicalModeling\PhysicalModeling\obj\Debug\PhysicalModeling.pdb
